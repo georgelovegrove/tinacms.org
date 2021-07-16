@@ -27,6 +27,19 @@
       ]
     },
     {
+      "_template": "flying",
+      "headline": "Learn Tina",
+      "subline": "TRY THIS NEW FLYING TINA",
+      "actions": [
+        {
+          "variant": "button",
+          "label": "Get Started",
+          "icon": "arrowRight",
+          "url": "#"
+        }
+      ]
+    },
+    {
       "_template": "hero",
       "headline": "Unlock your team with *next-gen editing*",
       "subline": "Tina is an open-source editor for Jamstack sites",
